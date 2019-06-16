@@ -1,18 +1,17 @@
-### The 9th International
+
 ## Learning Analytics & Knowledge Conference
-#### Tempe, Arizona
-#### March 4-8, 2019 #LAK19
+#### Vancouver, CA
+#### June 17-19
 
 
 # Python Bootcamp for Learning Analytics Practioners
 
-## Instructors: Alfred Essa, Lalitha Agnihotri
-### Teaching Assistants: Kim Pham, Eddie Lin
+## Instructors: Alfred Essa, Lalitha Agnihotri, Shirin Mojarad
 
 
-### Note: Course Materials, including detailed syllabus and Jupyter Notebooks will be available at the <a href = "https://github.com/alfredessa/lak19/wiki">Course Wiki.</a>
+### Note: Course Materials, including detailed syllabus and Jupyter Notebooks will be available at the <a href = "https://github.com/alfredessa/lasi2019/wiki">Course Wiki.</a>
 
-<b>Summary</b>: The hands-on tutorial will provide a rigorous introduction to python for learning analytics practitioners. The intensive tutorial consists of five parts: a) basic and intermediate python; b) statistics and visualization; c) machine learning d) causal inferencing and d) deep learning. The tutorial will be motivated throughout by educational datasets and examples. The aim of the tutorial is to provide a thorough introduction to computation and statistical methodologies in modern learning analytics.
+<b>Summary</b>: The hands-on tutorial will provide a rigorous introduction to python for learning analytics practitioners. The intensive tutorial consists of five parts: a) intermediate python; b) statistics and visualization; c) machine learning d) causal inferencing and d) deep learning. The aim of the tutorial is to provide a thorough introduction to computation and statistical methodologies in modern learning analytics.
 
 <i>1.1 Python.</i> Python is the de facto language for scientific computing and one of the principal languages, along with R, for data science and machine learning. Along with foundational concepts such as data structures, functions, and iteration we will cover intermediate concepts such as comprehensions, collections, generators, map/filter/reduce, and object orientation. Special emphasis will be given to coding in “idiomatic Python”.
 
