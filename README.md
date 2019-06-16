@@ -10,8 +10,8 @@
 
 ### Course Materials:
 
-<a href = "https://github.com/alfredessa/lasi2019/wiki/Learning-Objectives"> Learning Objectives </a>
-<a href = "https://github.com/alfredessa/lasi2019/wiki/Jupyter-Notebooks"> Jupyter_Notebooks </a>
+- <a href = "https://github.com/alfredessa/lasi2019/wiki/Learning-Objectives"> Learning Objectives </a>
+- <a href = "https://github.com/alfredessa/lasi2019/wiki/Jupyter-Notebooks"> Jupyter_Notebooks </a>
 
 
 
